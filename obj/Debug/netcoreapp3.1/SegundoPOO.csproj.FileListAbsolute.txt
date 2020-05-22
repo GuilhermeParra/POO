@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\bin\Debug\netcoreapp3.1\SegundoPOO.exe
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\bin\Debug\netcoreapp3.1\SegundoPOO.deps.json
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\bin\Debug\netcoreapp3.1\SegundoPOO.runtimeconfig.json
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\bin\Debug\netcoreapp3.1\SegundoPOO.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\bin\Debug\netcoreapp3.1\SegundoPOO.dll
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\bin\Debug\netcoreapp3.1\SegundoPOO.pdb
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\obj\Debug\netcoreapp3.1\SegundoPOO.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\obj\Debug\netcoreapp3.1\SegundoPOO.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\obj\Debug\netcoreapp3.1\SegundoPOO.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\obj\Debug\netcoreapp3.1\SegundoPOO.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\obj\Debug\netcoreapp3.1\SegundoPOO.dll
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\obj\Debug\netcoreapp3.1\SegundoPOO.pdb
+C:\Users\parra\OneDrive\Área de Trabalho\SegundoPOO\obj\Debug\netcoreapp3.1\SegundoPOO.genruntimeconfig.cache
